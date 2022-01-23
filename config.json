@@ -1,0 +1,9 @@
+{
+  "ip": "ElegalNetwork.aternos.me",
+  "port": "30079",
+  "name": "PaleTrainYT",
+  "auto-night-skip": "false",
+  "login-enabled": "false",
+  "register-cmd": "/register RASYA991",
+  "login-cmd": "/login RASYA991"
+}
